@@ -72,7 +72,7 @@ After Experimenting with multiple models, we used the following models in our fi
 Some teams tried finetuning smaller versions of Qwen3, but 4B version produced good enough embeddings which performed well and gave good improvemance gap. Try out bigger models before finetuning smaller models.
 
 # Modality Specific Networks
-< Insert Architecture Image >
+<img width="722" height="812" alt="AMLC2025-Final drawio" src="https://github.com/user-attachments/assets/c5792a0a-15f5-4093-bb53-a5949cb21647" />
 
 Embeddings generated from each model are in different space, and it is hard for a model to learn from these embeddings by simply concating them. 
 Applying Modality Specific Transformations helped training easier and converge quickly. We believe this specific method helped improve the performance.
