@@ -69,7 +69,7 @@ After Experimenting with multiple models, we used the following models in our fi
 2. Siglip2 Giant - 2B - Text + Image [HF](https://huggingface.co/google/siglip2-giant-opt-patch16-256)
 3. DinoV3 - 0.8B - Image [HF](https://huggingface.co/facebook/dinov3-vith16plus-pretrain-lvd1689m)
 
-Some teams tried finetuning smaller versions of Qwen3, but 4B version produced good enough embeddings which performed well and gave good improvemance gap. Try out bigger models before finetuning smaller models.
+Some teams tried finetuning smaller versions of Qwen3, but 4B version produced good enough embeddings which performed well and gave good improvement gap. Try out bigger models before finetuning smaller models.
 
 # Modality Specific Networks
 <img width="722" height="812" alt="AMLC2025-Final drawio" src="https://github.com/user-attachments/assets/c5792a0a-15f5-4093-bb53-a5949cb21647" />
