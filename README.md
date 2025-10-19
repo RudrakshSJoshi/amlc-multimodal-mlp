@@ -65,7 +65,7 @@ $$
 
 After Experimenting with multiple models, we used the following models in our final pipeline
 
-1. Qwen-3-4B Text Only[HF](https://huggingface.co/Qwen/Qwen3-4B)
+1. Qwen-3-4B Text Only [HF](https://huggingface.co/Qwen/Qwen3-4B)
 2. Siglip2 Giant - 2B - Text + Image [HF](https://huggingface.co/google/siglip2-giant-opt-patch16-256)
 3. DinoV3 - 0.8B - Image [HF](https://huggingface.co/facebook/dinov3-vith16plus-pretrain-lvd1689m)
 
