@@ -49,7 +49,7 @@ $$
 - Range: $$\( [0, 200] \)$$  
 - Lower is better 
 # Handling Dataset
-<Insert Distribution Image>
+<img width="738" height="463" alt="Image" src="https://github.com/user-attachments/assets/9eeafda9-d168-42c1-8849-b313f185b5b2" />
 
 
 - Right Skewed Dataset -> Apply log1p transformation
