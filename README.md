@@ -27,8 +27,6 @@ Link: [Kaggle Dataset](https://www.kaggle.com/datasets/manav2805/amazon-ml-chall
 
 TL;DR Use Embeddings for different modality with Modality wise networks and a final regressor network.
 
-Boomers: Oh you didnt finetune big models, not novel enough....
-
 Just using pretrained embeddings without finetuning and careful selection and training of subsequent layers was able to beat many teams who adopted fine-tuning based approaches and reach 3rd position in public LB and 5th position in private LB. Even teams above us were within small margin of SMAPE. Using Pretrained frozen encoders might seem less cool.
 It turns out, LLMs which were distilled to smaller versions lead to suboptimial representation capability and the quality of embeddings decrease drastically. Finetuning them can only take so far. So bigger models sometimes beat finetuned smaller models. 
 
